@@ -7,8 +7,6 @@ This is the voicebank for Kasane Teto. I took it from the official website and m
 + English name
 
 ## Download
-Click "code" and click "download as zip"
+Go to "Releases" and download whatever is the most recent.
 
-<img src="https://raw.githubusercontent.com/Suzu0071/Helper-Repository/refs/heads/main/Teto-Standard-Plus-VCV/Download-zip.png">
-
-Drag the downloaded zip onto an open UTAU window
+Then drag the downloaded zip onto an open UTAU window.
