@@ -1,0 +1,87 @@
+Translated version of 使用許諾条件.txt
+
+Kasane Teto Sound Library License Conditions
+
+Issued date: April 1, 2011
+Publisher: Kasane Teto Official Circle "Twin Drill"
+
+■About these license conditions (readme.txt)■
+
+These license conditions govern the use of the "Kasane Teto Sound Library" (hereinafter referred to as "this library") as defined in the next section.
+
+Note that these license conditions do not govern the use of the "Kasane Teto character" as defined in the next section.
+
+The use of the "Kasane Teto character" is stipulated in the Guidelines for Using Kasane Teto (https://kasaneteto.jp/guideline/) and elsewhere.
+
+■Definitions■
+
+In these license conditions, the meanings of the following terms shall be defined as follows.
+
+- "Kasane Teto character" refers to an abstract concept whose appearance and other characteristics are expressed by the name "Kasane Teto" and the copyrighted work of art designed by 線.
+
+・The "Kasane Teto Voice Library" refers to the voice that Koyamano Maiyo recorded and processed to provide for the "character Kasane Teto".
+
+・The "Kasane Teto Voice" refers to any audio output generated based on the above "Kasane Teto Voice Library",
+
+and the "Kasane Teto Voice Library" itself.
+
+■License■
+
+The author, Koyamano Maiyo, grants permission to use this library by agreeing to the license conditions.
+If you do not agree, you cannot use this library.
+
+Anyone, whether a corporation or individual, can use it free of charge as long as it is within the scope of non-commercial activities (including doujin activities that do not aim for profit).
+When publishing works created using this library, there is no need to contact the copyright holder or distributor before or after the fact.
+
+■When a separate license is required■
+
+A separate license is required in advance for commercial use of this library and for use of Kasane Teto's voice beyond the scope of the above license.
+For such use of this library, please contact Crypton Future Media, Inc.
+
+Please contact the "Piapro Character Use Inquiry Desk" at the following address.
+
+■Prohibited Items■
+
+The following actions are prohibited when using this library.
+
+-Publication of Kasane Teto's audio on ethically or legally questionable sites or works, such as crime-related or suicide-related sites. In addition, if the copyright holder deems it inappropriate, the copyright holder may request that the publication of Kasane Teto's audio be discontinued.
+
+-Publication of Kasane Teto's audio that infringes the rights of not only the copyright holder but also third parties.
+
+-Publication of Kasane Teto's audio that expresses content that is significantly contrary to public order and morals.
+
+-Falsifying the copyright information of this library.
+
+-Selling or distributing this library in whole or in part, regardless of whether it has been modified, without the consent of the copyright holder.
+
+-Anything that violates the terms of this license.
+
+■Non-application of Prohibited Items■
+
+The following actions are not prohibited.
+
+・Direct modification of this library within the scope of personal use. Also, publishing works using such modifications.
+
+・Modifying and distributing the frequency table (*.frq file) and voice settings (oto.ini file) included with this library.
+
+Also, distributing character.txt without modifications or editing for the sake of convenience.
+
+・Publishing works without crediting "Kasane Teto" and "Koyamano Maiyo".
+
+・Using this library for anything other than "Kasane Teto", provided that the use of this library is clear and there is no misunderstanding of the copyright information.
+
+■Disclaimer■
+
+The copyright holder and distributor of this library are not responsible for any trouble, damage, or loss caused by the use of this library. Use at your own risk.
+
+In addition, the contents of this license may change without notice.
+
+■Contact■
+
+Kasane Teto Official Site Inquiries https://kasaneteto.jp/contact/
+
+Piapro Character Usage Inquiries https://piapro.jp/character_inquiry/
+
+■Copyright■
+
+Kasane Teto Voice Library © Koyamano Maiyo 2008 All Rights Reserved.
